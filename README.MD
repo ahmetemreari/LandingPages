@@ -23,7 +23,7 @@
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/arizentrix-welcome.git
+git clone https://github.com/ahmetemreari/LandingPages.git
 ```
 
 2. Open the project folder
@@ -69,7 +69,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ### Kurulum
 1. Projeyi klonlayın
 ```bash
-git clone https://github.com/kullaniciadin/arizentrix-welcome.git
+git clone https://github.com/ahmetemreari/LandingPages.git
 ```
 
 2. Proje klasörüne gidin
